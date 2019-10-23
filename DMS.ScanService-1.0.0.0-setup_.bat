@@ -1,0 +1,1 @@
+COPY /B  "DMS.ScanService-1.0.0.0-setup_.001"+"DMS.ScanService-1.0.0.0-setup_.002"+"DMS.ScanService-1.0.0.0-setup_.003"+"DMS.ScanService-1.0.0.0-setup_.004"+"DMS.ScanService-1.0.0.0-setup_.005"+"DMS.ScanService-1.0.0.0-setup_.006" "DMS.ScanService-1.0.0.0-setup.exe"
